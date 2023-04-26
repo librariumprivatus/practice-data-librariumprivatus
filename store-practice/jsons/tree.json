@@ -1,0 +1,85 @@
+{
+  "update": "23-04-26 02:30:33",
+  "tree": {
+    "-5058f1af": {
+      "001-phil-aebc0605": {
+        "1-bright-ddbc26b3": {
+          "1596-dek-0a0abf2e": {
+            "dekartr--349f3531": null,
+            "dekart-r-15291125": null
+          },
+          "1883-yas-554d1334": {
+            "yaspers--bde68414": null,
+            "yaspers--54b31762": null,
+            "yaspers--ae51f352": null,
+            "yaspers--009a69f3": null,
+            "yaspers--ac4f6add": null,
+            "yaspers--f679b338": null,
+            "yaspers--b88d6217": null,
+            "yaspers--f103cfa0": null,
+            "yaspers--d6507591": null,
+            "vvedenie-0230325d": null,
+            "kant-zhi-7890bbf6": null,
+            "nitsshe--b7036d2c": null,
+            "razum-i--0d36c37d": null,
+            "tri-toch-b4a6e272": null,
+            "iaspers--6dbce3e8": null
+          },
+          "1902-pop-09a75299": {
+            "vse-liud-d34d28e0": null,
+            "vse-liud-a313c39b": null,
+            "vsia-zhi-87cda869": null,
+            "znanie-i-d350074a": null,
+            "logika-i-765e7d20": null,
+            "logika-n-532c744b": null,
+            "otkrytoe-2c3bcb16": null,
+            "otkrytoe-f125cea7": null,
+            "tri-toch-5b1fbdf7": null,
+            "tri-toch-a20e7587": null,
+            "evoliuts-89eca26f": null
+          },
+          "1931-ken-da5a5a25": {
+            "a-new-hi-386c18f9": null,
+            "an-illus-9ab02b01": null,
+            "an-illus-60e1e0b9": null,
+            "ancient--f1fc5dcf": null,
+            "philosop-d40300d9": null,
+            "wittgens-1068db97": null
+          }
+        },
+        "4-scient-d759f978": {
+          "iskushen-a0b346f3": null
+        }
+      },
+      "002-math-ec2429a9": {
+        "28-quant-61fbc79e": {
+          "heisenbe-a4348038": {
+            "geyzenbe-00ee779d": null,
+            "heisenbe-d5da0b03": null,
+            "verner-g-217c18f0": null,
+            "geizenbe-e5ac1771": null
+          },
+          "vf2010li-828f69b1": null
+        },
+        "operator-71de4f25": null
+      },
+      "024-prop-56e9e0eb": {
+        "storytel-b22a74ba": null,
+        "putevodi-6839418f": null,
+        "rossiia--172f0390": null,
+        "ia-manip-d8a95901": null
+      },
+      "1001-ign-f0286431": {
+        "explorin-97c07138": null,
+        "chanyshe-6ef764e3": null,
+        "sviaz-fi-db077c16": null
+      },
+      "802-ser--0e580ac8": {
+        "add-69cf6759": {
+          "a-compan-edb97cdb": null,
+          "a-compan-54e94b1e": null
+        }
+      }
+    }
+  }
+}

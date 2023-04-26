@@ -1,0 +1,575 @@
+{
+  "name": "biblioteka-practice",
+  "path": ".",
+  "children": [
+    {
+      "name": "001 🪲 Philosophy T",
+      "path": "001 🪲 Philosophy T",
+      "children": [
+        {
+          "name": "0-text-1.txt",
+          "path": "001 🪲 Philosophy T/0-text-1.txt",
+          "children": null,
+          "type": "file",
+          "id": "0-text-1-06d8002d",
+          "nickname": "001 🪲 Phil🔹0-text-1.t🔹06d8002d"
+        },
+        {
+          "name": "0-text-Phil.txt",
+          "path": "001 🪲 Philosophy T/0-text-Phil.txt",
+          "children": null,
+          "type": "file",
+          "id": "0-text-p-264d6721",
+          "nickname": "001 🪲 Phil🔹0-text-Phi🔹264d6721"
+        },
+        {
+          "name": "1 🏂 Bright Personalities T",
+          "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T",
+          "children": [
+            {
+              "name": "1596 🕯 Dekart Rene T",
+              "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T",
+              "children": [
+                {
+                  "name": "DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "dekartr--349f3531",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹DekartR-Ra🔹349f3531"
+                },
+                {
+                  "name": "dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "dekart-r-15291125",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹dekart_ren🔹15291125"
+                }
+              ],
+              "type": "dir",
+              "id": "1596-dek-0a0abf2e",
+              "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹0a0abf2e"
+            },
+            {
+              "name": "1883 - Yaspers Karl T",
+              "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T",
+              "children": [
+                {
+                  "name": "Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--bde68414",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers Ka🔹bde68414"
+                },
+                {
+                  "name": "Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--54b31762",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_FI🔹54b31762"
+                },
+                {
+                  "name": "Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--ae51f352",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Fi🔹ae51f352"
+                },
+                {
+                  "name": "Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--009a69f3",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Sm🔹009a69f3"
+                },
+                {
+                  "name": "Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--ac4f6add",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Sm🔹ac4f6add"
+                },
+                {
+                  "name": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--f679b338",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_So🔹f679b338"
+                },
+                {
+                  "name": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--b88d6217",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_So🔹b88d6217"
+                },
+                {
+                  "name": "yaspers._velikie_filosofy._kniga_2.pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--f103cfa0",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers._v🔹f103cfa0"
+                },
+                {
+                  "name": "yaspers.epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "yaspers--d6507591",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers.ep🔹d6507591"
+                },
+                {
+                  "name": "Введение в философию (Ясперс Карл.).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Введение в философию (Ясперс Карл.).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "vvedenie-0230325d",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Введение в🔹0230325d"
+                },
+                {
+                  "name": "Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "kant-zhi-7890bbf6",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Кант жизнь🔹7890bbf6"
+                },
+                {
+                  "name": "Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "nitsshe--b7036d2c",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Ницше Введ🔹b7036d2c"
+                },
+                {
+                  "name": "Разум и экзистенция (Ясперс Карл).djvu",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Разум и экзистенция (Ясперс Карл).djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "razum-i--0d36c37d",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Разум и эк🔹0d36c37d"
+                },
+                {
+                  "name": "Три точки зрения на человеческое познание (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "tri-toch-b4a6e272",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Три точки 🔹b4a6e272"
+                },
+                {
+                  "name": "Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "iaspers--6dbce3e8",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Ясперс о Н🔹6dbce3e8"
+                }
+              ],
+              "type": "dir",
+              "id": "1883-yas-554d1334",
+              "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹554d1334"
+            },
+            {
+              "name": "1902 - Popper Karl T",
+              "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T",
+              "children": [
+                {
+                  "name": "Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "vse-liud-d34d28e0",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Все люди -🔹d34d28e0"
+                },
+                {
+                  "name": "Все люди — философы (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди — философы (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "vse-liud-a313c39b",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Все люди —🔹a313c39b"
+                },
+                {
+                  "name": "Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "vsia-zhi-87cda869",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Вся жизнь 🔹87cda869"
+                },
+                {
+                  "name": "Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "znanie-i-d350074a",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Знание и п🔹d350074a"
+                },
+                {
+                  "name": "Логика и рост научного знания (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика и рост научного знания (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "logika-i-765e7d20",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика и р🔹765e7d20"
+                },
+                {
+                  "name": "Логика научного исследования (Поппер К.).djvu",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика научного исследования (Поппер К.).djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "logika-n-532c744b",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика нау🔹532c744b"
+                },
+                {
+                  "name": "Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "otkrytoe-2c3bcb16",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Открытое о🔹2c3bcb16"
+                },
+                {
+                  "name": "Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "otkrytoe-f125cea7",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Открытое о🔹f125cea7"
+                },
+                {
+                  "name": "Три точки зрения на человеческое познание (Карл Поппер).epub",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "tri-toch-5b1fbdf7",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Три точки 🔹5b1fbdf7"
+                },
+                {
+                  "name": "Три точки зрения на человеческое познание (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "tri-toch-a20e7587",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Три точки 🔹a20e7587"
+                },
+                {
+                  "name": "Эволюционная эпистемология (Карл Поппер).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Эволюционная эпистемология (Карл Поппер).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "evoliuts-89eca26f",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Эволюционн🔹89eca26f"
+                }
+              ],
+              "type": "dir",
+              "id": "1902-pop-09a75299",
+              "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹09a75299"
+            },
+            {
+              "name": "1931 - Kenny Anthony T",
+              "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T",
+              "children": [
+                {
+                  "name": "A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "a-new-hi-386c18f9",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹A New Hist🔹386c18f9"
+                },
+                {
+                  "name": "An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "an-illus-9ab02b01",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹An Illustr🔹9ab02b01"
+                },
+                {
+                  "name": "An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "an-illus-60e1e0b9",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹An Illustr🔹60e1e0b9"
+                },
+                {
+                  "name": "Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "ancient--f1fc5dcf",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Ancient Ph🔹f1fc5dcf"
+                },
+                {
+                  "name": "Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "philosop-d40300d9",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Philosophy🔹d40300d9"
+                },
+                {
+                  "name": "Wittgenstein (Sir Anthony Kenny).pdf",
+                  "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Wittgenstein (Sir Anthony Kenny).pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "wittgens-1068db97",
+                  "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Wittgenste🔹1068db97"
+                }
+              ],
+              "type": "dir",
+              "id": "1931-ken-da5a5a25",
+              "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹da5a5a25"
+            }
+          ],
+          "type": "dir",
+          "id": "1-bright-ddbc26b3",
+          "nickname": "001 🪲 Phil🔹1 🏂 Bright🔹ddbc26b3"
+        },
+        {
+          "name": "4 🔬 Scientific Philosophy T",
+          "path": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T",
+          "children": [
+            {
+              "name": "Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+              "path": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T/Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+              "children": null,
+              "type": "file",
+              "id": "iskushen-a0b346f3",
+              "nickname": "001 🪲 Phil🔹4 🔬 Scient🔹Искушение 🔹a0b346f3"
+            }
+          ],
+          "type": "dir",
+          "id": "4-scient-d759f978",
+          "nickname": "001 🪲 Phil🔹4 🔬 Scient🔹d759f978"
+        }
+      ],
+      "type": "dir",
+      "id": "001-phil-aebc0605",
+      "nickname": "001 🪲 Phil🔹aebc0605"
+    },
+    {
+      "name": "002 🚀 Mathimatics T",
+      "path": "002 🚀 Mathimatics T",
+      "children": [
+        {
+          "name": "0-text-2-Math.txt",
+          "path": "002 🚀 Mathimatics T/0-text-2-Math.txt",
+          "children": null,
+          "type": "file",
+          "id": "0-text-2-3a0bc8ae",
+          "nickname": "002 🚀 Math🔹0-text-2-M🔹3a0bc8ae"
+        },
+        {
+          "name": "28 - Quantum T",
+          "path": "002 🚀 Mathimatics T/28 - Quantum T",
+          "children": [
+            {
+              "name": "Heisenberg T",
+              "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T",
+              "children": [
+                {
+                  "name": "Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub",
+                  "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "geyzenbe-00ee779d",
+                  "nickname": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Geyzenberg🔹00ee779d"
+                },
+                {
+                  "name": "Heisenberg_Physik_und_Philosophie.pdf",
+                  "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Heisenberg_Physik_und_Philosophie.pdf",
+                  "children": null,
+                  "type": "file",
+                  "id": "heisenbe-d5da0b03",
+                  "nickname": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Heisenberg🔹d5da0b03"
+                },
+                {
+                  "name": "Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+                  "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+                  "children": null,
+                  "type": "file",
+                  "id": "verner-g-217c18f0",
+                  "nickname": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Verner_Gey🔹217c18f0"
+                },
+                {
+                  "name": "Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub",
+                  "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub",
+                  "children": null,
+                  "type": "file",
+                  "id": "geizenbe-e5ac1771",
+                  "nickname": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Гейзенбер🔹e5ac1771"
+                }
+              ],
+              "type": "dir",
+              "id": "heisenbe-a4348038",
+              "nickname": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹a4348038"
+            },
+            {
+              "name": "VF2010Lipkin-arpht5tmw0o.pdf",
+              "path": "002 🚀 Mathimatics T/28 - Quantum T/VF2010Lipkin-arpht5tmw0o.pdf",
+              "children": null,
+              "type": "file",
+              "id": "vf2010li-828f69b1",
+              "nickname": "002 🚀 Math🔹28 - Quant🔹VF2010Lipk🔹828f69b1"
+            }
+          ],
+          "type": "dir",
+          "id": "28-quant-61fbc79e",
+          "nickname": "002 🚀 Math🔹28 - Quant🔹61fbc79e"
+        },
+        {
+          "name": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+          "path": "002 🚀 Mathimatics T/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+          "children": null,
+          "type": "file",
+          "id": "operator-71de4f25",
+          "nickname": "002 🚀 Math🔹Operator T🔹71de4f25"
+        }
+      ],
+      "type": "dir",
+      "id": "002-math-ec2429a9",
+      "nickname": "002 🚀 Math🔹ec2429a9"
+    },
+    {
+      "name": "024 🥨 Propaganda T",
+      "path": "024 🥨 Propaganda T",
+      "children": [
+        {
+          "name": "Storytelling for Law... by Philip Meyer (z-lib.org).epub",
+          "path": "024 🥨 Propaganda T/Storytelling for Law... by Philip Meyer (z-lib.org).epub",
+          "children": null,
+          "type": "file",
+          "id": "storytel-b22a74ba",
+          "nickname": "024 🥨 Prop🔹Storytelli🔹b22a74ba"
+        },
+        {
+          "name": "Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf",
+          "path": "024 🥨 Propaganda T/Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf",
+          "children": null,
+          "type": "file",
+          "id": "putevodi-6839418f",
+          "nickname": "024 🥨 Prop🔹Путеводите🔹6839418f"
+        },
+        {
+          "name": "Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf",
+          "path": "024 🥨 Propaganda T/Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf",
+          "children": null,
+          "type": "file",
+          "id": "rossiia--172f0390",
+          "nickname": "024 🥨 Prop🔹Россия в э🔹172f0390"
+        },
+        {
+          "name": "Смерть экспертизы [litres] (Том Николс).fb2",
+          "path": "024 🥨 Propaganda T/Смерть экспертизы [litres] (Том Николс).fb2",
+          "children": null,
+          "type": "file",
+          "id": "smert-ek-7375b617",
+          "nickname": "024 🥨 Prop🔹Смерть экс🔹7375b617"
+        },
+        {
+          "name": "Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub",
+          "path": "024 🥨 Propaganda T/Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub",
+          "children": null,
+          "type": "file",
+          "id": "ia-manip-d8a95901",
+          "nickname": "024 🥨 Prop🔹Я манипули🔹d8a95901"
+        }
+      ],
+      "type": "dir",
+      "id": "024-prop-56e9e0eb",
+      "nickname": "024 🥨 Prop🔹56e9e0eb"
+    },
+    {
+      "name": "1001 - Ignore T",
+      "path": "1001 - Ignore T",
+      "children": [
+        {
+          "name": "Exploring-philosophy.pdf",
+          "path": "1001 - Ignore T/Exploring-philosophy.pdf",
+          "children": null,
+          "type": "file",
+          "id": "explorin-97c07138",
+          "nickname": "1001 - Ign🔹Exploring-🔹97c07138"
+        },
+        {
+          "name": "chanyshev. nachalo filosofii.pdf",
+          "path": "1001 - Ignore T/chanyshev. nachalo filosofii.pdf",
+          "children": null,
+          "type": "file",
+          "id": "chanyshe-6ef764e3",
+          "nickname": "1001 - Ign🔹chanyshev.🔹6ef764e3"
+        },
+        {
+          "name": "x-ignore.txt",
+          "path": "1001 - Ignore T/x-ignore.txt",
+          "children": null,
+          "type": "file",
+          "id": "x-ignore-d534040d",
+          "nickname": "1001 - Ign🔹x-ignore.t🔹d534040d"
+        },
+        {
+          "name": "Связь философии с жизнью в последние.ddjvu.pdf",
+          "path": "1001 - Ignore T/Связь философии с жизнью в последние.ddjvu.pdf",
+          "children": null,
+          "type": "file",
+          "id": "sviaz-fi-db077c16",
+          "nickname": "1001 - Ign🔹Связь фило🔹db077c16"
+        }
+      ],
+      "type": "dir",
+      "id": "1001-ign-f0286431",
+      "nickname": "1001 - Ign🔹f0286431"
+    },
+    {
+      "name": "802 🦖 Ser. Cambridge Companion T",
+      "path": "802 🦖 Ser. Cambridge Companion T",
+      "children": [
+        {
+          "name": "add",
+          "path": "802 🦖 Ser. Cambridge Companion T/add",
+          "children": [
+            {
+              "name": "A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+              "path": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+              "children": null,
+              "type": "file",
+              "id": "a-compan-edb97cdb",
+              "nickname": "802 🦖 Ser.🔹add🔹A Companio🔹edb97cdb"
+            },
+            {
+              "name": "A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+              "path": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+              "children": null,
+              "type": "file",
+              "id": "a-compan-54e94b1e",
+              "nickname": "802 🦖 Ser.🔹add🔹A Companio🔹54e94b1e"
+            }
+          ],
+          "type": "dir",
+          "id": "add-69cf6759",
+          "nickname": "802 🦖 Ser.🔹add🔹69cf6759"
+        }
+      ],
+      "type": "dir",
+      "id": "802-ser--0e580ac8",
+      "nickname": "802 🦖 Ser.🔹0e580ac8"
+    }
+  ],
+  "type": "dir",
+  "id": "-5058f1af",
+  "nickname": "🔹5058f1af"
+}
